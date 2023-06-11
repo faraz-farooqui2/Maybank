@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>link_Apply</name>
+   <tag></tag>
+   <elementGuidId>d296ea38-f306-40c8-a573-6c798c9946ac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;mainNav&quot;]/div/div/div[2]/div/ul/li[4]/a[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;mainNav&quot;]/div/div/div[2]/div/ul/li[4]/a[1]</value>
+      <webElementGuid>3ebd7ce2-83bf-4ffb-a71f-8f5f64cddd13</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

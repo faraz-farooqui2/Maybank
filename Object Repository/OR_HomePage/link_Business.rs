@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>link_Business</name>
+   <tag></tag>
+   <elementGuidId>ddf99241-74ef-42eb-9484-b3d381886b8a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[2]/div/div[1]/div[2]/div[1]/div[1]/nav/div/div/div[2]/div/ul/li[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[2]/div/div[1]/div[2]/div[1]/div[1]/nav/div/div/div[2]/div/ul/li[2]/a</value>
+      <webElementGuid>a46e4377-eea4-4fdc-bfb8-62a2ee43dbd5</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

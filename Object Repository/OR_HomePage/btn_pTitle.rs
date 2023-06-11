@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_pTitle</name>
+   <tag></tag>
+   <elementGuidId>f19967da-5809-4bd6-80de-6e0d98ae2a0c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[2]/div/div[1]/div[3]/div/div/div/div[2]/div/div/div[2]/div[2]/div/div[2]/div/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[2]/div/div[1]/div[3]/div/div/div/div[2]/div/div/div[2]/div[2]/div/div[2]/div/div/button</value>
+      <webElementGuid>f2d70cda-3e64-4840-b1bc-3d94361c4b1d</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

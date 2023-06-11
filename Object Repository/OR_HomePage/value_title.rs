@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>value_title</name>
+   <tag></tag>
+   <elementGuidId>a750d5aa-8e0e-49f6-84c2-77a2f0cf8dd3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;dyno&quot;]/div/div/div/div[2]/div/div/div[2]/div[2]/div/div[1]/div/div/ul/li[1]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;dyno&quot;]/div/div/div/div[2]/div/div/div[2]/div[2]/div/div[1]/div/div/ul/li[1]/a</value>
+      <webElementGuid>32e78ba7-ac36-4f67-93c3-390bc6af064d</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Name</name>
+   <tag></tag>
+   <elementGuidId>5386e610-7d93-49fa-b2e0-abdc6a4b213c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[2]/div/div[1]/div[3]/div/div/div/div[2]/div/div/div[3]/div[2]/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[2]/div/div[1]/div[3]/div/div/div/div[2]/div/div/div[3]/div[2]/input</value>
+      <webElementGuid>2d19ec96-54e7-4260-a5c5-0873e7fa7e18</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

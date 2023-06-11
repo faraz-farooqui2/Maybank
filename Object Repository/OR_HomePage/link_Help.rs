@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>link_Help</name>
+   <tag></tag>
+   <elementGuidId>93ae8bbe-773c-4d86-9ce2-be2e5b4df31e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[2]/div/div[1]/div[2]/div[1]/div[1]/nav/div/div/div[2]/div/ul/li[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[2]/div/div[1]/div[2]/div[1]/div[1]/nav/div/div/div[2]/div/ul/li[3]/a</value>
+      <webElementGuid>b89c586d-6557-47d1-a1ee-a93b8c108e62</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
